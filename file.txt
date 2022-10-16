@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a=23
+int a=25
 printfi("m the ruler");
 }
 
