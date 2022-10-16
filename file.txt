@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-int a=25
-printf(" iamm the ruler");
+int a=23
+printfi("m the ruler");
 }
 
 
