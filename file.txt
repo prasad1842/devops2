@@ -1,3 +1,17 @@
-hii my name is prasad iam from nellore
-hii my name is prasad iam from nellore
+#include<stdio.h>
+int main()
+{
+int a=25
+printf(" iamm the ruler");
+}
+
+
+
+
+
+
+
+
+
+
 
