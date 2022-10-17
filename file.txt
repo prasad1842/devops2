@@ -2,8 +2,6 @@
 int main()
 {
 int a=26
-printfi("m the ruler");
-}
 
 
 
